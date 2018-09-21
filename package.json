@@ -1,0 +1,16 @@
+{
+  "name": "string-calculator-kata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "autotest": "jest --watchAll"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "devDependencies": {
+    "jest": "^23.6.0"
+  }
+}
